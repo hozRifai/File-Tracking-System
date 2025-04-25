@@ -22,7 +22,7 @@ A FastAPI-based service that tracks and processes files in a specified directory
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Hozrifaigt/File_Tracking_System.git
+git clone https://github.com/hozRifai/File-Tracking-System 
 cd chatbot-automate
 ```
 
